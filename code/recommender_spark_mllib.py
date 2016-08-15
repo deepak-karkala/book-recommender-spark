@@ -1,5 +1,6 @@
 """
 Recommendation model using Spark MLlib
+Based on example in Spark MLlib documentation
 """
 from __future__ import print_function
 import sys
